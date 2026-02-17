@@ -36,6 +36,7 @@ Patient Report Q&A[Output 1](outputs/output1.jpeg)
 
 # How to Run:-
 pip install -r requirements.txt
+
 streamlit run app.py
 
 
