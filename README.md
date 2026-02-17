@@ -3,3 +3,10 @@ A production-ready local AI application that reads patient PDF reports, understa
 
 🏗️ System Architecture
 [Medical RAG Architecture](architecture.png)
+
+📸 Sample Outputs
+Patient Report Q&A
+[Output 1](outputs/output1.png)
+
+Disease Explanation
+[Output 2](outputs/output2.png)
